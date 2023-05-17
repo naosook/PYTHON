@@ -1,3 +1,4 @@
+#Alunos: Amanda Brandão Sousa, Camila Silva, Alessandro Moura, João Marcos, Wallysson Cavalcante, Vitória Oliveira.
 #DESAFIO 01 - CÁLCULO DE MEDIA;
 
 nota_01 = float(input("Qual o valor da 1º Nota?:"))
@@ -22,4 +23,3 @@ area_do_retangulo = (base_b * altura_h)
 print("Area do Retangulo =", area_do_retangulo, "cm^2")
 
 
-###
