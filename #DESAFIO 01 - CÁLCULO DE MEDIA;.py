@@ -20,3 +20,6 @@ perimetro = 2*(base_b + altura_h)
 print("Perimetro =", perimetro, "cm")
 area_do_retangulo = (base_b * altura_h)
 print("Area do Retangulo =", area_do_retangulo, "cm^2")
+
+
+###
