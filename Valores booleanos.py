@@ -45,5 +45,44 @@ Podemos usar operadores de comparação em programas como Trivia App para verifi
 answer = "Picasso"
 if answer == "Picasso"
   print(answer + "is correct!") #saída: Picasso is correct!
+
+  Já vimos antes que variáveis também podem armazenar números. Ao contrário das strings, os valores numéricos não usam aspas "". Exemplo:
+active_users = 5
+
+Os números facilitam o controle dos dados numéricos. Como aqui, active_users armazena o número 5. Exemplo:
+active_users = 5
+
+Também podemos criar expressões com números. Aqui, podemos adicionar números com + 1. Exemplo:
+number_of_applications = 5 + 1
+print(number_of_applications) # Saída: 6
+
+Usamos o sinal * para multiplicar números e o sinal “/” para dividir números. Transformaremos 0.5 em seu valor percentual multiplicando-o por 100. Exemplo:
+percent = 0.5 * 100 
+print (percent) # Saída: 50.0
+
+Como sabemos que a variável score armazena um número?
+score 40 + 4
+# Porque não há aspas duplas em torno de 40 e 4
+
+Multiplique a variável savings pela variável interest. Exemplo:
+savings = 100
+interest = 0.04
+print(savings * interest) # Saída: 4.0
+
+Divida sum_of_grades pelos students para obter a nota média de uma turma. Exemplo:
+sum_of_grades = 460
+students = 5
+print(sum_of_grades / students) # Saída: 92.0
+
+Subtraia discount do total e exiba o resultado do cálculo no console. Exemplo:
+total = 100
+discount = 20
+print("Discounted price:")
+print(total - discount) # Saída: Discounted price: 80
+
+Como as expressões se tornam valores, podemos armazená-las em variáveis da mesma forma que os valores. Veja o exemplo aqui onde codificaremos label para exibir a expressão:
+label "Posts: " + "13"
+print(label) # Saída: Posts: 13
+
   
 
