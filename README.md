@@ -1,3 +1,4 @@
 # PYTHON
 
-Aprendendo Python de forma abrangente, do básico ao avançado. Documentando minha jornada com atividades da sala de aula, atividaddes de cursos e projetos práticos. Acompanhe meu progresso enquanto desenvolvo habilidades sólidas em codificação Python. 
+Estou atualmente engajada em um curso abrangente de Python, abordando desde os conceitos fundamentais até os aspectos mais avançados da linguagem. Estou comprometida em documentar meticulosamente minha trajetória para futuras referências e revisões, visando uma compreensão sólida e uma evolução constante em minhas habilidades de programação.
+
